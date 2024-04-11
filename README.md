@@ -1,4 +1,6 @@
-### About the repository
+### About this repository 
+[![DOI](https://zenodo.org/badge/785200391.svg)](https://zenodo.org/doi/10.5281/zenodo.10963077)
+
 This repository hosts the Matlab based code packages associated with our manuscript titled “Modeling scattering matrix containing evanescent modes for 
 wavefront shaping applications in disordered media”, Michael Raju, Baptiste Jayet and Stefan Andersson-Engels, Tyndall National Institute, University College Cork, Ireland.
  In addition to the main paper, there is a supplementary 
