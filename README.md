@@ -1,5 +1,5 @@
 ### About the repository
-This repository hosts the Matlab based code packages associated with our manuscript titled “Modeling generalized scattering matrix containing evanescent modes for 
+This repository hosts the Matlab based code packages associated with our manuscript titled “Modeling scattering matrix containing evanescent modes for 
 wavefront shaping applications in disordered media”, Michael Raju, Baptiste Jayet and Stefan Andersson-Engels, Tyndall National Institute, University College Cork, Ireland.
  In addition to the main paper, there is a supplementary 
 document and a user manual. The [user manual](/User_manual.pdf)
