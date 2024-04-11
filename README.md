@@ -8,7 +8,7 @@ structure of the code packages. There is also a Zenodo repository (as explained 
 run data (saved-data-Code-Package-1.mat and saved-data-Code-Package-2.mat) from 
 the Zenodo repository and add it to the code package folders (Code-Package-1 and Code-Package-2) respectively. Loading the saved run data
 (by setting new\_run\_flag=0 in the main.m file) 
-helps to visualize the results presented in the paper, without actually performing a new computational run from the scratch. On the other hand, setting the flag 
+helps to visualize the results presented in the paper, without actually performing a new computational run from scratch. On the other hand, setting the flag 
 new\_run\_flag=1 yields a fresh computational run, initializing a new disorder.  
 
 ### Contribution
