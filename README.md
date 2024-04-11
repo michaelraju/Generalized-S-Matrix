@@ -13,7 +13,7 @@ setting new\_run\_flag=1 yields a fresh computational run, initializing a new di
 
 ### Contribution
 The code packages and the associated analytical and numerical formulations were developed by Michael Raju as part of his PhD studies.
-Baptiste Jayet and Stefan Andersson-Engel were involved in the PhD supervision. 
+Baptiste Jayet and Prof. Stefan Andersson-Engels were involved in the PhD supervision. 
 Michael wrote the manuscript, the supplementary document and the user manual with the support from the other authors. 
 
 This repository is also associated with Michael's [PhD thesis](https://hdl.handle.net/10468/14107).
