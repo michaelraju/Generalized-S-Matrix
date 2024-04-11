@@ -17,7 +17,6 @@ helps to visualize the results presented in the paper, without actually performi
 ### Contribution
 The code packages and the associated analytical and numerical formulations were developed by Michael Raju as part of his [PhD thesis](https://hdl.handle.net/10468/14107).
 Baptiste Jayet and Prof. Stefan Andersson-Engels were involved in the PhD supervision. 
-Michael wrote the manuscript, the supplementary document and the user manual with the support from the other authors. 
 
 ### Acknowledgments
 We would like to thank Science Foundation Ireland (SFI) for funding the research through Stefan's professorship grant *``Novel applications and techniques for in-vivo
