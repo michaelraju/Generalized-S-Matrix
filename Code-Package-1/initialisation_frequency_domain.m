@@ -72,6 +72,26 @@ if(isreal(kzdz))
     pause; 
 end
 
+% Test : Check for kz = 0 (cutoff singularity) ----------------------------
+% singularity occurs when (kref * W) / pi is an integer, making the
+%       1/sqrt(k_z) normalisation used in the definition of 
+%       eigenmodes to blow up (as kz->0)
+m_cutoff = (kref * W)/pi;  % theoretical mode index where kz = 0
+                           % Ideally m_cutoff shouldn't be an integer
+Tol = 1e-6; % Tolerance value used to check how close m_cutoff to an integer
+
+if abs(m_cutoff - round(m_cutoff)) < Tol
+    warning(['Potential kz^{(m)} = 0 singularity detected: ', ...
+        'kref*W/pi ≈ integer (m = ', num2str(round(m_cutoff)), '). ', ...
+        'This may cause divergence in 1/sqrt(kz) normalization. ', ...
+        'Consider modifying W, n0, or lambda0.']);
+    
+   % Optional pause for user awareness
+    disp('Execution paused. Press any key to continue after checking parameters.');
+    pause;
+end
+
+
 %----------------------- Define  basis functions -------------------------
  Chi = @(n,W,jth,kydy) (sqrt(2/W).*sin(kydy(n).*(jth-1)));
 %--------------------- Propagating part ----------------------------------
