@@ -261,7 +261,8 @@ end
 
 %-------------- Analysis part of the code-package-1  ----------------------
 % Validation for the generalised unitarity and reciprocity properties 
-generalised_reciprocity_and_unitarity_validation(S11,S12,S21,S22,init_data)          
+%generalised_reciprocity_and_unitarity_validation(S11,S12,S21,S22,init_data) 
+generalised_reciprocity_and_unitarity_validation_review(S11,S12,S21,S22,init_data) %Incorporated review comments
 %------ Script for verifying various flux conservation relations ----------
 script_test_flux_conservation
 %-- Script for demonstrating the transmission eigenchannel decomposition 
