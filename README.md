@@ -1,5 +1,5 @@
 ### About this repository 
-Code packages [![DOI](https://zenodo.org/badge/785200391.svg)](https://zenodo.org/doi/10.5281/zenodo.10963077)
+Code packages [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10963077.svg)](https://zenodo.org/doi/10.5281/zenodo.10963077)
 
 Saved dataset [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10960970.svg)](https://doi.org/10.5281/zenodo.10960970)
 
