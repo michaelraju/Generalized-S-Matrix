@@ -1,5 +1,5 @@
 ### About this repository 
-**Zenodo Code packages:** https://zenodo.org/doi/10.5281/zenodo.10963077
+**Zenodo repository archive:** https://zenodo.org/doi/10.5281/zenodo.10963077
 
 **Saved dataset:** https://doi.org/10.5281/zenodo.10960970
 
